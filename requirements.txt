@@ -1,0 +1,10 @@
+Flask
+Flask-Session
+Flask-Mail
+requests
+numpy
+pandas
+bokeh==2.2.3
+openpyxl
+mysqlclient
+SQLAlchemy==1.3.23
